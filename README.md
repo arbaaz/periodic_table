@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install periodic_table
 
 ## Usage
-
-TODO: Write usage instructions here
+    require 'periodic_table'
+    # Lookup data for an element by name
+    PeriodicTable.lookup 'oxygen'
 
 ## Contributing
 
